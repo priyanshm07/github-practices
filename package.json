@@ -1,0 +1,27 @@
+{
+  "name": "github-practices",
+  "version": "1.0.0",
+  "description": "Pushing to protected branch\r Trying to push changes from main",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshm07/github-practices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanshm07/github-practices/issues"
+  },
+  "homepage": "https://github.com/priyanshm07/github-practices#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
